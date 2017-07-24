@@ -1,4 +1,4 @@
-Source: configurator
+Source: com.github.cassidyjames.configurator
 Section: x11
 Priority: extra
 Maintainer: Marcus Wichelmann <marcus.wichelmann@hotmail.de>
@@ -11,7 +11,7 @@ Build-Depends: cmake (>= 2.8),
                valac-0.26
 
 Standards-Version: 3.9.5
-Package: configurator
+Package: com.github.cassidyjames.configurator
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: A stylish dconf editor for elementary OS.

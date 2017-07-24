@@ -1,5 +1,5 @@
-configurator (0.1) trusty; urgency=low
+com.github.cassidyjames.configurator (0.1.1) trusty; urgency=low
 
-  * Initial Release.
+  * Initial port to GitHub.
 
- -- Marcus Wichelmann <marcus.wichelmann@hotmail.de>  Sun, 8 Mar 2015 20:00:00 +0100
+ -- Cassidy James Blaede <c@ssidyjam.es>  Mon, 24 Jul 2017 14:25:00 -0600
