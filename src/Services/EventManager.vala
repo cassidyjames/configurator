@@ -31,7 +31,7 @@ namespace configurator.Services {
 		}
 
 		public void key_changed (GLib.Settings settings, string key) {
-			if (settings.schema_id != "org.pantheon.configurator")
+			if (settings.schema_id != "com.github.cassidyjames.configurator")
 				event (EventType.KEY_CHANGED, settings, key);
 		}
 

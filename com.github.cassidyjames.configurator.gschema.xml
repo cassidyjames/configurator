@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist>
-	<schema path="/org/pantheon/configurator/" id="org.pantheon.configurator" gettext-domain="configurator">
+	<schema path="/com/github/cassidyjames/configurator/" id="com.github.cassidyjames.configurator" gettext-domain="configurator">
 		<key type="b" name="maximized">
 			<default>true</default>
 			<summary>The last status of the window</summary>

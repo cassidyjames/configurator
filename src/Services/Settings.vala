@@ -23,7 +23,7 @@ namespace configurator.Services {
 		public static Settings? instance = null;
 
 		public Settings () {
-			base ("org.pantheon.configurator");
+			base ("com.github.cassidyjames.configurator");
 		}
 
 		public static Settings get_default () {

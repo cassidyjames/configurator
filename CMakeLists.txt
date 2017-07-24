@@ -74,12 +74,12 @@ add_subdirectory (po)
 add_executable(configurator ${VALA_C})
 
 include(GSettings)
-add_schema("org.pantheon.configurator.gschema.xml")
+add_schema("com.github.cassidyjames.configurator.gschema.xml")
 
 install (TARGETS configurator RUNTIME DESTINATION bin)
 
-install (FILES ${CMAKE_CURRENT_SOURCE_DIR}/data/configurator.desktop DESTINATION share/applications)
+install (FILES ${CMAKE_CURRENT_SOURCE_DIR}/data/com.github.cassidyjames.configurator.desktop DESTINATION share/applications)
 
-install (FILES ${CMAKE_CURRENT_SOURCE_DIR}/data/128/configurator.svg DESTINATION share/icons/hicolor/128x128/apps)
-install (FILES ${CMAKE_CURRENT_SOURCE_DIR}/data/64/configurator.svg DESTINATION share/icons/hicolor/64x64/apps)
-install (FILES ${CMAKE_CURRENT_SOURCE_DIR}/data/48/configurator.svg DESTINATION share/icons/hicolor/48x48/apps)
+install (FILES ${CMAKE_CURRENT_SOURCE_DIR}/data/128/com.github.cassidyjames.configurator.svg DESTINATION share/icons/hicolor/128x128/apps)
+install (FILES ${CMAKE_CURRENT_SOURCE_DIR}/data/64/com.github.cassidyjames.configurator.svg DESTINATION share/icons/hicolor/64x64/apps)
+install (FILES ${CMAKE_CURRENT_SOURCE_DIR}/data/48/com.github.cassidyjames.configurator.svg DESTINATION share/icons/hicolor/48x48/apps)
