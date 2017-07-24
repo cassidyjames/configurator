@@ -1,0 +1,128 @@
+# Lithuanian translation for configurator
+# Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
+# This file is distributed under the same license as the configurator package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: configurator\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2015-04-16 19:11+0200\n"
+"PO-Revision-Date: 2016-08-04 12:35+0000\n"
+"Last-Translator: Moo <hazap@hotmail.com>\n"
+"Language-Team: Lithuanian <lt@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2016-08-05 05:46+0000\n"
+"X-Generator: Launchpad (build 18169)\n"
+
+#: /home/marcus/Projekte/configurator/po/../src/MainWindow.vala:67
+msgid "Schemas"
+msgstr "Schemos"
+
+#: /home/marcus/Projekte/configurator/po/../src/MainWindow.vala:71
+msgid "Events"
+msgstr "Įvykiai"
+
+#: /home/marcus/Projekte/configurator/po/../src/configurator.vala:45
+msgid "A tool to edit your system-settings in elementary OS."
+msgstr "Įrankis, skirtas keisti jūsų sistemos nustatymus elementary OS."
+
+#: /home/marcus/Projekte/configurator/po/../src/Utils.vala:63
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/Fields/ArrayInput.vala:63
+msgid "Enabled"
+msgstr "Įjungta"
+
+#: /home/marcus/Projekte/configurator/po/../src/Utils.vala:63
+msgid "Disabled"
+msgstr "Išjungta"
+
+#: /home/marcus/Projekte/configurator/po/../src/Utils.vala:89
+msgid "Empty array"
+msgstr ""
+
+#: /home/marcus/Projekte/configurator/po/../src/Utils.vala:101
+msgid "Preview not supported."
+msgstr "Peržiūra nepalaikoma"
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/TitleBar.vala:29
+msgid "Configurator"
+msgstr ""
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/EventsView.vala:31
+msgid "No events logged yet"
+msgstr ""
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/EventsView.vala:32
+msgid ""
+"On this page you'll see a list of settings-keys that have changed since you "
+"have started this application."
+msgstr ""
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/EventsView.vala:33
+msgid ""
+"You could use this feature to search for keys that are changed by the "
+"preferences of another program. Thanks to the code-examples you're then\n"
+"able to integrate these keys into your own applications and scripts."
+msgstr ""
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/EventsView.vala:59
+#, c-format
+msgid "Unsupported event type \"%s\""
+msgstr ""
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/Fields/ArrayInput.vala:49
+msgid "New element"
+msgstr ""
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/Fields/ArrayInput.vala:95
+#, c-format
+msgid "Unsupported type \"%s\". Can't create new entry."
+msgstr ""
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/Fields/ArrayInput.vala:138
+#, c-format
+msgid "%s elements"
+msgstr ""
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/Fields/ArrayInput.vala:141
+msgid "No items found."
+msgstr ""
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/Fields/DoubleInput.vala:22
+msgid "Not a number"
+msgstr ""
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/KeyInfo.vala:43
+msgid "<b>Property type</b>"
+msgstr ""
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/KeyInfo.vala:56
+msgid "<b>Default value</b>"
+msgstr ""
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/KeyInfo.vala:69
+msgid "<b>Vala code</b>"
+msgstr ""
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/KeyInfo.vala:82
+msgid "<b>Command</b>"
+msgstr ""
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/KeyInfo.vala:95
+msgid "<b>Description</b>"
+msgstr ""
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/KeyInfo.vala:108
+msgid "Reset to default"
+msgstr ""
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/Key.vala:138
+msgid "This settings type is not supported yet."
+msgstr ""
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/Key.vala:141
+#, c-format
+msgid "Unsupported type \"%s\" in %s->%s"
+msgstr ""

@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+4b1f3858f6dc44078ec19cdb83749277 src/config.c

@@ -1,0 +1,133 @@
+# Brazilian Portuguese translation for configurator
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the configurator package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: configurator\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2015-04-16 19:11+0200\n"
+"PO-Revision-Date: 2015-07-03 05:48+0000\n"
+"Last-Translator: Cleiton Floss <cleitonfloss@gmail.com>\n"
+"Language-Team: Brazilian Portuguese <pt_BR@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2015-07-04 05:43+0000\n"
+"X-Generator: Launchpad (build 17597)\n"
+
+#: /home/marcus/Projekte/configurator/po/../src/MainWindow.vala:67
+msgid "Schemas"
+msgstr "Esquemas"
+
+#: /home/marcus/Projekte/configurator/po/../src/MainWindow.vala:71
+msgid "Events"
+msgstr "Eventos"
+
+#: /home/marcus/Projekte/configurator/po/../src/configurator.vala:45
+msgid "A tool to edit your system-settings in elementary OS."
+msgstr "Uma ferramenta para editar as configurações do elementary OS"
+
+#: /home/marcus/Projekte/configurator/po/../src/Utils.vala:63
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/Fields/ArrayInput.vala:63
+msgid "Enabled"
+msgstr "Habilitado"
+
+#: /home/marcus/Projekte/configurator/po/../src/Utils.vala:63
+msgid "Disabled"
+msgstr "Desabilitado"
+
+#: /home/marcus/Projekte/configurator/po/../src/Utils.vala:89
+msgid "Empty array"
+msgstr "Lista vazia"
+
+#: /home/marcus/Projekte/configurator/po/../src/Utils.vala:101
+msgid "Preview not supported."
+msgstr "Visualização não suportada."
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/TitleBar.vala:29
+msgid "Configurator"
+msgstr "Configurador"
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/EventsView.vala:31
+msgid "No events logged yet"
+msgstr "Nenhum evento a ser exibido"
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/EventsView.vala:32
+msgid ""
+"On this page you'll see a list of settings-keys that have changed since you "
+"have started this application."
+msgstr ""
+"Nessa página você verá uma lista de configurações que foram alteradas desde "
+"que a aplicação iniciou."
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/EventsView.vala:33
+msgid ""
+"You could use this feature to search for keys that are changed by the "
+"preferences of another program. Thanks to the code-examples you're then\n"
+"able to integrate these keys into your own applications and scripts."
+msgstr ""
+"Você pode usar esse recurso para procurar por atributos que são alterados em "
+"outro programa. Graças aos exemplos de código\n"
+"você será capaz de integrar esses atributos em suas aplicações e scripts."
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/EventsView.vala:59
+#, c-format
+msgid "Unsupported event type \"%s\""
+msgstr "Tipo de evento \"%s\" não suportado."
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/Fields/ArrayInput.vala:49
+msgid "New element"
+msgstr "Novo elemento"
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/Fields/ArrayInput.vala:95
+#, c-format
+msgid "Unsupported type \"%s\". Can't create new entry."
+msgstr "Tipo \"%s\" não suportado. Não foi possível criar nova entrada."
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/Fields/ArrayInput.vala:138
+#, c-format
+msgid "%s elements"
+msgstr "%s elementos"
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/Fields/ArrayInput.vala:141
+msgid "No items found."
+msgstr "Nenhum item encontrado."
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/Fields/DoubleInput.vala:22
+msgid "Not a number"
+msgstr "Não é um número"
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/KeyInfo.vala:43
+msgid "<b>Property type</b>"
+msgstr "<b>Tipo do Atributo</b>"
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/KeyInfo.vala:56
+msgid "<b>Default value</b>"
+msgstr "<b>Valor Padrão</b>"
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/KeyInfo.vala:69
+msgid "<b>Vala code</b>"
+msgstr "<b>Código em Vala</b>"
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/KeyInfo.vala:82
+msgid "<b>Command</b>"
+msgstr "<b>Comando</b>"
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/KeyInfo.vala:95
+msgid "<b>Description</b>"
+msgstr "<b>Descrição</b>"
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/KeyInfo.vala:108
+msgid "Reset to default"
+msgstr "Restaurar valor padrão"
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/Key.vala:138
+msgid "This settings type is not supported yet."
+msgstr "Esse tipo de configuração ainda não é supportado."
+
+#: /home/marcus/Projekte/configurator/po/../src/Widgets/Key.vala:141
+#, c-format
+msgid "Unsupported type \"%s\" in %s->%s"
+msgstr "Tipo não suportado \"%s\" em %s->%s"

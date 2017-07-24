@@ -1,0 +1,17 @@
+Source: configurator
+Section: x11
+Priority: extra
+Maintainer: Marcus Wichelmann <marcus.wichelmann@hotmail.de>
+Build-Depends: cmake (>= 2.8),
+               debhelper (>= 9),
+               libdevhelp-dev,
+               libgtk-3-dev (>= 3.12),
+               libgranite-dev,
+               libvala-0.26-dev,
+               valac-0.26
+
+Standards-Version: 3.9.5
+Package: configurator
+Architecture: any
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: A stylish dconf editor for elementary OS.

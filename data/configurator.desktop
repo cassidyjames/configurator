@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=Configurator
+Comment=System-Settings editor.
+GenericName=configurator
+Exec=configurator %U
+Icon=configurator
+Terminal=false
+Categories=Development;Settings;System;Utility;
+X-GNOME-Gettext-Domain=configurator
+Actions=AboutDialog;
+
+[Desktop Action AboutDialog]
+Exec=configurator --about
+Name=About Configurator
