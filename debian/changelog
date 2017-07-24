@@ -1,5 +1,5 @@
-com.github.cassidyjames.configurator (0.1.1) trusty; urgency=low
+com.github.cassidyjames.configurator (0.1.2) trusty; urgency=low
 
-  * Initial port to GitHub.
+  * Added AppData
 
- -- Cassidy James Blaede <c@ssidyjam.es>  Mon, 24 Jul 2017 14:25:00 -0600
+ -- Cassidy James Blaede <c@ssidyjam.es>  Mon, 24 Jul 2017 14:49:00 -0600
