@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2017 Cassidy James Blaede <c@ssidyjam.es> -->
+<component type="desktop">
+  <id>com.github.cassidyjames.configurator.desktop</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Configurator</name>
+  <summary>Stylish dconf editor</summary>
+  <description>
+    <p>Configurator is a simple, stylish, and helpful dconf editor for developers. Browse GSettings schemas. Edit them as you please. Watch for events.</p>
+  </description>
+  <custom>
+    <value key="x-appcenter-color-primary">#0e141f</value>
+    <value key="x-appcenter-color-primary-text">#95A3AB</value>
+    <value key="x-appcenter-suggested-price">0</value>
+  </custom>
+</component>
